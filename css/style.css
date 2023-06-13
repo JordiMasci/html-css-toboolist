@@ -59,10 +59,24 @@ body {
     border-radius: 8px;
     font-size: 0.75rem;
     color: white;
+
 }
 
 .color-aqua {
     background-color: skyblue;
 
     
+}
+
+.margin-div{
+    margin-bottom: 20px;
+}
+
+.border-green{
+    border-radius: 50px;
+    border: 1px solid green;
+}
+.border-red{
+    border-radius: 50px;
+    border: 1px solid red;
 }
