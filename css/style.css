@@ -1,0 +1,68 @@
+body {
+    background-color: grey;
+    margin: 0;
+    font-size: 27px;
+}
+
+.header {
+    margin-left: 20px;
+    height: 100px;
+}
+
+.text-logo {
+    display: inline-block;
+
+}
+
+/* header */
+.header,
+.text-logo {
+    vertical-align: middle;
+}
+
+.background-white1 {
+    background-color: white;
+}
+
+/* main container */
+.main-container {
+    background-color: white;
+    margin: 60px 250px;
+    border-radius: 8px;
+}
+
+/* etichette */
+.container-etichette {
+    padding: 20px 50px;
+    border-bottom: 1px solid gray;
+}
+
+.etichetta {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.etichetta2 {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid gray;
+}
+
+/* main content */
+.main-content {
+    padding: 20px 50px;
+}
+
+.etichette-content {
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    color: white;
+}
+
+.color-aqua {
+    background-color: skyblue;
+
+    
+}
